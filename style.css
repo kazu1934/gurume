@@ -1,0 +1,18 @@
+
+@charset "UTF-8";
+
+body{
+    background-color: #fffeee
+}
+
+h1{
+   text-align: center;
+    color: #0bd;
+}
+h3{
+   text-align: center;
+    color: #0bd;
+}
+form{
+    text-align: center;
+}
